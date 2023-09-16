@@ -1,12 +1,14 @@
-###  👋
+# 👋 Hi there, I'm [Yousef](https://nibiru.substack.com)!
+
 ![morphNFNT](https://github.com/huey-nibiru/huey-nibiru/assets/26775577/1bfd0231-9c4a-4981-9576-e5cf80d91a98)
 
 <!-- Header -->
 <p align="center">
-  <img src="[https://your-image-url.com/your-image.png](https://github.com/huey-nibiru/huey-nibiru/assets/26775577/1bfd0231-9c4a-4981-9576-e5cf80d91a98)" alt="nibiru" width="200" height="200">
+  <img src="https://github.com/huey-nibiru/huey-nibiru/assets/26775577/1bfd0231-9c4a-4981-9576-e5cf80d91a98" alt="Your Name" width="200" height="200">
 </p>
 
-# 👋 Hi there, I'm [Yousef](https://nibiru.substack.com)!
+
+
 I'm a passionate developer, music producer 🎧, and car enthusiast 🚗. Currently diving deep into the world of data engineering, exploring the realms of ai, ml, and finance. 
 
 ## 🚀 About Me
