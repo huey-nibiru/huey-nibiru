@@ -15,7 +15,7 @@
 - 🌱 I’m constantly learning and exploring new technologies, with a focus on React and TypeScript.
 - 💼 I have a strong background in Python, SQL, and Excel, making data manipulation and analysis my forte.
 - 🎶 When I'm not coding, you can find me in my music studio, producing tracks & setting the vibes.
-- 🚗 I also have a soft spot for cars, and I'm always up for a conversation about horsepower and torque! 😲
+- 🚗 I'm always up for a conversation about horsepower! 😲
 
 ## 🛠️ Tech Stack
 Here are some of the tools I find useful:
