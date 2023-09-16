@@ -1,4 +1,6 @@
 ### Hi there 👋
+![morphNFNT](https://github.com/huey-nibiru/huey-nibiru/assets/26775577/1bfd0231-9c4a-4981-9576-e5cf80d91a98)
+
 
 <!--
 **huey-nibiru/huey-nibiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
