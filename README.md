@@ -6,7 +6,7 @@
 
 
 
-Developer, music producer 🎧, and car enthusiast 🚗. 
+Developer, music producer 🎧, and car enthusiast 🚗. \n
 Currently diving deep into the world of data engineering, exploring the realms of ai, ml, and finance. 
 
 ## 🚀 About Me
