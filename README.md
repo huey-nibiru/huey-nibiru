@@ -21,7 +21,7 @@
 Here are some of the tools I find useful:
 
 - **Backend:** Python, JavaScript, C++ 
-- **Web Development:** React, HTML, CSS, TypeScript
+- **Frontend:** React, HTML, CSS, TypeScript
 - **Databases:** SQL (MySQL, MongoDB, Bigquery, Supabase)
 - **Data Analysis:** Pandas, NumPy, Excel
 - **Tools:** Git, Visual Studio Code, Jupyter Notebook
