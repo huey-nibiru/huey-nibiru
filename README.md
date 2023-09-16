@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on my own SAAS project, combining dev skills with the entrepreneurial spirit.
 - 🌱 I’m constantly learning and exploring new technologies, with a focus on React and TypeScript.
 - 💼 I have a strong background in Python, SQL, and Excel, making data manipulation and analysis my forte.
-- 🎶 When I'm not coding, you can find me in my music studio, producing tracks & setting the vibes.
+- 🎶 When I'm not coding, you can find me in the studio, producing tracks & setting the vibes.
 - 🚗 I'm always up for a conversation about horsepower! 😲
 
 ## 🛠️ Tech Stack
