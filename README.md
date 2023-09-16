@@ -6,7 +6,8 @@
 
 
 
-I'm a passionate developer, music producer 🎧, and car enthusiast 🚗. Currently diving deep into the world of data engineering, exploring the realms of ai, ml, and finance. 
+Developer, music producer 🎧, and car enthusiast 🚗. 
+Currently diving deep into the world of data engineering, exploring the realms of ai, ml, and finance. 
 
 ## 🚀 About Me
 - 🔭 I’m currently working on my own SAAS project, combining dev skills with the entrepreneurial spirit.
