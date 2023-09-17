@@ -11,9 +11,9 @@
 ## 🚀 About Me
 - 💻 Developer , music producer 🎧, and car enthusiast 🚗.
 - 📈 Diving deep into the world of data engineering, exploring the realms of ai, ml, and finance. 
-- 🔭 I’m currently working on my own SAAS project, combining dev skills with the entrepreneurial spirit.
-- 🌱 I’m constantly learning and exploring new technologies, with a focus on React and TypeScript.
-- 💼 I have a strong background in Python, SQL, and Excel, making data manipulation and analysis my forte.
+- 🔭 Currently working on my own SAAS project, combining dev skills with the entrepreneurial spirit.
+- 🌱 Constantly learning and exploring new technologies, with a focus on React and TypeScript.
+- 💼 Background in Python, SQL, and Excel; (data manipulation and analysis).
 - 🎶 When I'm not coding, you can find me in the studio, producing tracks & setting the vibes.
 - 🚗 I'm always up for a conversation about horsepower! 😲
 
