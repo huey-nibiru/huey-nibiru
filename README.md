@@ -44,4 +44,6 @@ Feel free to explore my repositories for more exciting projects!
 - 🌐 Personal Website: [Your Website](https://your-website-url.com)
 
 -->
-Let's connect and collaborate on some exciting projects together! 🚀
+Always open to connect and collaborate! 🚀
+
+
