@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
   <h1> 
-    <a href="https://github.com/yourusername/yourrepository](https://nibiru.substack.com">Welcome to Nibiru</a>
+    <a href="https://nibiru.substack.com">Welcome to Nibiru</a>
 </h1>
 </div>
 
