@@ -1,5 +1,5 @@
 <!-- Header -->
-# 👋 Hi there, I'm [Yousef](https://nibiru.substack.com)!
+# 👋 Hi there, I'm [Huey](https://nibiru.substack.com)!
 <p align="center">
   <img src="https://github.com/huey-nibiru/huey-nibiru/assets/26775577/1bfd0231-9c4a-4981-9576-e5cf80d91a98" alt="Your Name" width="333" style="border-radius:59%;">
 </p>
