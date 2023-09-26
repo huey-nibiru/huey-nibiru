@@ -1,5 +1,7 @@
 <!-- Header -->
-# [Welcome to Nibiru](https://nibiru.substack.com)
+<div align="center">
+<h1> [Welcome to Nibiru](https://nibiru.substack.com)</h1>
+</div>
 <p align="center">
   <img src="https://github.com/huey-nibiru/huey-nibiru/assets/26775577/1bfd0231-9c4a-4981-9576-e5cf80d91a98" alt="Your Name" width="333" style="border-radius:59%;">
 </p>
