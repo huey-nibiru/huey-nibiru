@@ -1,8 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <h1> 
-    <a href="https://nibiru.substack.com">Welcome to Nibiru</a>
-</h1>
+ 
 </div>
 
 <p align="center">
