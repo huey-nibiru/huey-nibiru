@@ -17,9 +17,9 @@
 
 ## 🛠️ Tech Stack
 
-- **Backend:** Python, Js/Ts, C++ 
+- **Backend:** Python, Node, C++ 
 - **Frontend:** React, Vite, TypeScript
-- **Databases:** SQL (MySQL, MongoDB, Bigquery, Supabase)
+- **Database:** MySQL, MongoDB, Bigquery, Supabase
 - **Data Analysis:** Pandas, NumPy, Excel
 
 
