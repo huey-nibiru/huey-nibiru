@@ -16,7 +16,6 @@
 
 
 ## 🛠️ Tech Stack
-Here are some of the tools I find useful:
 
 - **Backend:** Python, Js/Ts, C++ 
 - **Frontend:** React, Vite, TypeScript
