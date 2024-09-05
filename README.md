@@ -21,7 +21,7 @@
 - **Frontend:** React, Vite, TypeScript
 - **Databases:** SQL (MySQL, MongoDB, Bigquery, Supabase)
 - **Data Analysis:** Pandas, NumPy, Excel
-- **Tools:** Git, Visual Studio Code, Jupyter Notebook
+
 
 
 
