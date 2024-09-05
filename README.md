@@ -18,7 +18,7 @@
 ## 🛠️ Tech Stack
 Here are some of the tools I find useful:
 
-- **Backend:** Python, JavaScript, C++ 
+- **Backend:** Python, Js/Ts, C++ 
 - **Frontend:** React, Vite, TypeScript
 - **Databases:** SQL (MySQL, MongoDB, Bigquery, Supabase)
 - **Data Analysis:** Pandas, NumPy, Excel
