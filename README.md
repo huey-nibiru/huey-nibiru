@@ -12,7 +12,7 @@
 
 
 ## 🚀 About Me
-- 💻 Developer, Musician, Car Enthusiast.
+- Developer, Musician, Car Enthusiast.
 
 
 ## 🛠️ Tech Stack
